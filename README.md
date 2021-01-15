@@ -1,5 +1,5 @@
 # ArticleManagementSystemJavaOop
-Learning Java 8 SE Oop concepts (Frensh version)
+Learning Java 8 SE Oop concepts (French version)
 ## About the repo
 Building simple application for Article Management System [Chek class diagram](https://lucid.app/lucidchart/invitations/accept/80e1c6d2-6571-4234-8394-c6a3f07d1390), using java language and oop(Oriented object programming) concept.
 ### Note
